@@ -8,7 +8,7 @@ I am based in **India** and currently working at **Tata Consultancy Services (TC
 
 ## Skills & Technologies
 
-docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu
+Preview: https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu
 
 ## Top Projects
 
