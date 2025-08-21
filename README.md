@@ -8,12 +8,12 @@ I am based in **India** and currently working at **Tata Consultancy Services (TC
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu)](https://skillicons.dev)
 
 
 
 https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu&perline=8
-https://skillicons.dev/docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu
+https://skillicons.dev/
 
 ## Top Projects
 
