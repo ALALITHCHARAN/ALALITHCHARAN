@@ -8,6 +8,8 @@ I am based in **India** and currently working at **Tata Consultancy Services (TC
 
 ## Skills & Technologies
 
+<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/25c77433-2545-4d55-a1f7-4040c4e9c51a" />
+
 https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu&perline=8
 https://skillicons.dev/docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu
 
