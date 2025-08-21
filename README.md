@@ -12,7 +12,7 @@ I am based in **India** and currently working at **Tata Consultancy Services (TC
 
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YourGitHub]&theme=github_dark" alt="[ALALITHCHARAN]'s GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[ALALITHCHARAN]&theme=github_dark" alt="[ALALITHCHARAN]'s GitHub Stats"/>
 </div>
 
 
