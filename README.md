@@ -11,6 +11,10 @@ I am based in **India** and currently working at **Tata Consultancy Services (TC
 [![My Skills](https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu)](https://skillicons.dev)
 
 
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YourGitHub]&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
+</div>
+
 
 https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu&perline=8
 https://skillicons.dev/
