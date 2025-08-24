@@ -34,6 +34,9 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 
 [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALALITHCHARAN&layout=compact&theme=tokyonight)  
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ALALITHCHARAN&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ALALITHCHARAN&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 ---
 
 ## Top Projects
