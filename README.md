@@ -31,6 +31,8 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
   </tr>
 </div>
 
+<img width="474" height="308" alt="image" src="https://github.com/user-attachments/assets/a15b5623-9449-48f8-b164-ae79ed1bd484" />
+
 ---
 
 ## 📈 GitHub Stats  
