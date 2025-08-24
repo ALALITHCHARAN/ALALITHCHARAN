@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]  
+# 👋 Hi there, I'm Lalith Charan
 
 🚀 **DevOps Engineer | Cloud Enthusiast | Automation Advocate**  
 
@@ -12,33 +12,17 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 - **Cloud Platforms:** AWS | Azure | GCP  
 - **Containers & Orchestration:** Docker | Kubernetes | OpenShift  
 - **CI/CD:** Jenkins | GitHub Actions | GitLab CI | ArgoCD  
-- **Infrastructure as Code:** Terraform | Ansible | Helm | Packer  
+- **Infrastructure as Code:** Terraform | Ansible | Helm   
 - **Monitoring & Logging:** Prometheus | Grafana | ELK | Loki  
 - **Scripting & Programming:** Python | Bash | Go | YAML  
 - **Version Control & Collaboration:** Git | GitHub | GitLab | Bitbucket  
 
 ---
 
-## 📌 Projects & Contributions  
-
-- 🏗️ **[Kubernetes Deployment Templates](https://github.com/yourusername/k8s-deployment-templates)**  
-  Pre-built Helm charts and YAML templates for deploying common applications on Kubernetes.  
-
-- 🔄 **[CI/CD Pipeline with Jenkins + Docker](https://github.com/yourusername/cicd-jenkins-docker)**  
-  Automated build and deploy pipeline for containerized applications.  
-
-- ☁️ **[Terraform AWS Modules](https://github.com/yourusername/terraform-aws-modules)**  
-  Reusable IaC modules to set up VPC, EC2, S3, and RDS on AWS.  
-
-- 📊 **[Monitoring Stack with Prometheus & Grafana](https://github.com/yourusername/monitoring-stack)**  
-  End-to-end observability stack with alerts and dashboards.  
-
----
-
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALALITHCHARAN&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALALITHCHARAN&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -52,21 +36,13 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 ⭐️ _“Automate Everything, Deliver Continuously, Scale Infinitely.”_
 
 
-## Hi there! 👋
-
-I'm **ALALITHCHARAN**, a passionate software developer and technology enthusiast. I love building innovative solutions and continuously learning new skills. Let's connect and collaborate!
-
-## About Me
-
-I am based in **India** and currently working at **Tata Consultancy Services (TCS)**. I enjoy exploring the latest technologies and applying them to real-world problems. My focus areas include DevOps, cloud technologies, and software development.
-
 ## Skills & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu)](https://skillicons.dev)
 
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[ALALITHCHARAN]&theme=github_dark" alt="[ALALITHCHARAN]'s GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALALITHCHARAN&theme=github_dark" alt="ALALITHCHARAN's GitHub Stats"/>
 </div>
 
 
@@ -95,33 +71,8 @@ https://skillicons.dev/
 - Pushed changes to [gcp-zero-to-hero](https://github.com/ALALITHCHARAN/gcp-zero-to-hero)
 - Watching [kestra-io/kestra](https://github.com/kestra-io/kestra)
 
-## Latest Blog Posts
-
-Coming soon! Stay tuned for my latest articles and insights on technology and development.
 
 ## Connect with Me
 
 {"linkedin":"https://www.linkedin.com/in/lalith-charan-ampabathina","generic":"https://github.com/ALALITHCHARAN"}
 
-## My Talks
-
-- [Talk Title](link-to-talk) - Brief description of the talk
-
-## Certifications
-
-- [Certification Name](link-to-certificate) - Issuing organization, Year
-
-## ASCII Art
-
-```
-     _    _        _    _     ___ _____ _   _  ____ _   _    _    ____      _    _   _ 
-    / \  | |      / \  | |   |_ _|_   _| | | |/ ___| | | |  / \  |  _ \    / \  | \ | |
-   / _ \ | |     / _ \ | |    | |  | | | |_| | |   | |_| | / _ \ | |_) |  / _ \ |  \| |
-  / ___ \| |___ / ___ \| |___ | |  | | |  _  | |___|  _  |/ ___ \|  _ <  / ___ \| |\  |
- /_/   \_\_____/_/   \_\_____|___| |_| |_| |_|\____|_| |_/_/   \_\_| \_\/_/   \_\_| \_|
-                                                                                       
-```
-
-## Publications
-
-- [Publication Title](link-to-publication) - Journal/Conference, Year
