@@ -28,7 +28,7 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
     <td><code><img width="45" style="background:white; padding:5px; border-radius:8px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/loki.png" alt="Loki" title="Loki"/></code></td>
     <td><code><img width="45" style="background:green; padding:5px; border-radius:8px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vault.png" alt="Vault" title="Vault"/></code></td>
     <td><code><img width="45" height="45" style="background:white; padding:5px; border-radius:8px;" src="https://github.com/user-attachments/assets/e3b7f947-8c4f-4a22-a7e0-f28cd52beea4" alt="Vault" title="Vault"/></code></td>
-    <td><code><img width="50" height="50" style="background:white; padding:5px; border-radius:8px;" src="https://github.com/user-attachments/assets/a15b5623-9449-48f8-b164-ae79ed1bd484" alt="Vault" title="Vault"/></code></td>
+    <td><code><img width="50" height="60" style="background:white; padding:5px; border-radius:8px;" src="https://github.com/user-attachments/assets/a15b5623-9449-48f8-b164-ae79ed1bd484" alt="Vault" title="Vault"/></code></td>
   </tr>
 </div>
 
