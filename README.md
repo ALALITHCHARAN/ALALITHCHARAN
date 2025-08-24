@@ -17,7 +17,8 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 - **Scripting & Programming:** Python | Bash | Go | YAML  
 - **Version Control & Collaboration:** Git | GitHub | GitLab | Bitbucket  
 
-[![My Skills](https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu,fluentd,fluentbit)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu)](https://skillicons.dev)
 
 ---
 
@@ -28,6 +29,7 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 </div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALALITHCHARAN&show_icons=true&theme=github_dark)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALALITHCHARAN&layout=compact&theme=tokyonight)  
 
 ---
@@ -40,12 +42,7 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 - [HARSHHAA--DEVOPS-INTERVIEW-QUESTIONS](https://github.com/ALALITHCHARAN/HARSHHAA--DEVOPS-INTERVIEW-QUESTIONS): Collection of 550+ DevOps interview questions with detailed answers - Stars: 0, Language: Null
 - [ABHISHEK--GITHUB-ACTIONS-ZERO-TO-HERO](https://github.com/ALALITHCHARAN/ABHISHEK--GITHUB-ACTIONS-ZERO-TO-HERO): Repository to kick start your journey with GitHub Actions - Stars: 0, Language: Null
 
-## GitHub Stats
-
-🌟 **Public Repositories:** 61  
-👥 **Followers:** 0  
-👤 **Following:** 0  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALALITHCHARAN&show_icons=true&hide_title=true&count_private=true)
+---
 
 ## Recent Activity
 
@@ -53,11 +50,6 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 - Forked [ABHISHEK--AZURE-ZERO-TO-HERO](https://github.com/ALALITHCHARAN/ABHISHEK--AZURE-ZERO-TO-HERO) from [AbhishekVeeramalla/azure-zero-to-hero](https://github.com/AbhishekVeeramalla/azure-zero-to-hero)
 - Pushed changes to [gcp-zero-to-hero](https://github.com/ALALITHCHARAN/gcp-zero-to-hero)
 - Watching [kestra-io/kestra](https://github.com/kestra-io/kestra)
-
-
-## Connect with Me
-
-{"linkedin":"https://www.linkedin.com/in/lalith-charan-ampabathina","generic":"https://github.com/ALALITHCHARAN"}
 
 ---
 
