@@ -42,6 +42,20 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
   </tr>
 </div>
 
+
+
+<div align="left">
+  <table>
+    <tr>
+      <td><img width="50" style="background:white; padding:5px; border-radius:8px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sonarqube.png" alt="SonarQube" title="SonarQube"/></td>
+      <td><img width="50" style="background:white; padding:5px; border-radius:8px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tomcat.png" alt="Tomcat" title="Tomcat"/></td>
+      <td><img width="50" style="background:white; padding:5px; border-radius:8px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></td>
+      <td><img width="50" style="background:white; padding:5px; border-radius:8px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/loki.png" alt="Loki" title="Loki"/></td>
+      <td><img width="50" style="background:white; padding:5px; border-radius:8px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vault.png" alt="Vault" title="Vault"/></td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 ## 📈 GitHub Stats  
