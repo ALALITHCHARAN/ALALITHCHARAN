@@ -18,7 +18,7 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 - **Version Control & Collaboration:** Git | GitHub | GitLab | Bitbucket  
 
 
-[![My Skills](https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu,gcp,grafana)](https://skillicons.dev)
 
 ---
 
