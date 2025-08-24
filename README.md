@@ -17,27 +17,22 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 - **Scripting & Programming:** Python | Bash | Go | YAML  
 - **Version Control & Collaboration:** Git | GitHub | GitLab | Bitbucket  
 
----
-
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALALITHCHARAN&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALALITHCHARAN&layout=compact&theme=tokyonight)  
-
----
-
 ## Skills & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu)](https://skillicons.dev)
 
+---
+
+## 📈 GitHub Stats  
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALALITHCHARAN&theme=github_dark" alt="ALALITHCHARAN's GitHub Stats"/>
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALALITHCHARAN&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALALITHCHARAN&layout=compact&theme=tokyonight)  
 
-https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu&perline=8
-https://skillicons.dev/
+---
 
 ## Top Projects
 
