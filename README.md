@@ -24,7 +24,7 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 
 <img width="50" height="50" alt="ArgoCD" 
      src="https://github.com/user-attachments/assets/e3b7f947-8c4f-4a22-a7e0-f28cd52beea4" 
-     style="border-radius:10px;" />
+     style="border-radius:10;" />
 
 <img width="50" height="50" alt="ArgoCD" 
      src="https://github.com/user-attachments/assets/e3b7f947-8c4f-4a22-a7e0-f28cd52beea4" 
