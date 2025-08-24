@@ -30,11 +30,10 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALALITHCHARAN&theme=github_dark" alt="ALALITHCHARAN's GitHub Stats"/>
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALALITHCHARAN&show_icons=true&theme=github_dark)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ALALITHCHARAN&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="GitHub Stats" /></p>
 
 [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALALITHCHARAN&layout=compact&theme=tokyonight)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ALALITHCHARAN&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="GitHub Stats" /></p>
 ---
 
 ## Top Projects
