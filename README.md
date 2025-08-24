@@ -22,7 +22,7 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 
 <div align="left">
   <tr>
-    <td><code><img width="50" style="background:white; padding:5px; border-radius:8px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sonarqube.png" alt="SonarQube" title="SonarQube"/></code></td>
+    <td><code><img width="40" style="background:white; padding:5px; border-radius:8px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sonarqube.png" alt="SonarQube" title="SonarQube"/></code></td>
     <td><code><img width="50" style="background:white; padding:5px; border-radius:8px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tomcat.png" alt="Tomcat" title="Tomcat"/></code></td>
     <td><code><img width="50" style="background:white; padding:5px; border-radius:8px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></code></td>
     <td><code><img width="50" style="background:white; padding:5px; border-radius:8px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/loki.png" alt="Loki" title="Loki"/></code></td>
