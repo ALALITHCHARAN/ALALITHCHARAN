@@ -18,21 +18,9 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 - **Version Control & Collaboration:** Git | GitHub | GitLab | Bitbucket  
 
 
-[![My Skills](https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu,gcp,grafana,python)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu,gcp,grafana,python)]
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e3b7f947-8c4f-4a22-a7e0-f28cd52beea4" />
 
-
-<img width="50" height="50" alt="ArgoCD" 
-     src="https://github.com/user-attachments/assets/e3b7f947-8c4f-4a22-a7e0-f28cd52beea4" 
-     style="border-radius:10;" />
-
-<img width="50" height="50" alt="ArgoCD" 
-     src="https://github.com/user-attachments/assets/e3b7f947-8c4f-4a22-a7e0-f28cd52beea4" 
-     style="border-radius:50%;" />
-
-<img width="50" height="50" alt="ArgoCD" 
-     src="https://github.com/user-attachments/assets/e3b7f947-8c4f-4a22-a7e0-f28cd52beea4" 
-     style="border-radius:12px; border:2px solid #ef7b4d; box-shadow: 2px 2px 5px rgba(0,0,0,0.3);" />
 
 ---
 
