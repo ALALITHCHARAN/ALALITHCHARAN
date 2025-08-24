@@ -26,16 +26,6 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 
 ---
 
-## 🌍 Let's Connect  
-
-- 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)  
-- 📝 [Blog/Portfolio](https://yourportfolio.com)  
-- 📫 Email: yourname@email.com  
-
----
-⭐️ _“Automate Everything, Deliver Continuously, Scale Infinitely.”_
-
-
 ## Skills & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu)](https://skillicons.dev)
@@ -75,4 +65,13 @@ https://skillicons.dev/
 ## Connect with Me
 
 {"linkedin":"https://www.linkedin.com/in/lalith-charan-ampabathina","generic":"https://github.com/ALALITHCHARAN"}
+---
 
+## 🌍 Let's Connect  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lalith-charan-ampabathina)  
+- 📝 [Blog/Portfolio](https://yourportfolio.com)  
+- 📫 Email: lalithcharan1410@gmail.com
+
+---
+⭐️ _“Automate Everything, Deliver Continuously, Scale Infinitely.”_
