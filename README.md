@@ -46,6 +46,15 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
 </p>
 
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<p align="left">
+  <!-- ArgoCD -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argo/argo-original.svg" alt="ArgoCD" width="50" height="50"/>
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+</p>
 
 
 ---
