@@ -18,7 +18,8 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 - **Version Control & Collaboration:** Git | GitHub | GitLab | Bitbucket  
 
 
-![My Skills](https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu,gcp,grafana,python) <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e3b7f947-8c4f-4a22-a7e0-f28cd52beea4" />
+![My Skills](https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu,gcp,grafana,python) 
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e3b7f947-8c4f-4a22-a7e0-f28cd52beea4" />
 
 
 <div align="left">
@@ -28,6 +29,7 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
     <td><code><img width="50" style="background:white; padding:5px; border-radius:8px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></code></td>
     <td><code><img width="50" style="background:white; padding:5px; border-radius:8px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/loki.png" alt="Loki" title="Loki"/></code></td>
     <td><code><img width="50" style="background:white; padding:5px; border-radius:8px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vault.png" alt="Vault" title="Vault"/></code></td>
+    <td><code><img width="50" style="background:white; padding:5px; border-radius:8px;" src="https://github.com/user-attachments/assets/e3b7f947-8c4f-4a22-a7e0-f28cd52beea4" alt="Vault" title="Vault"/></code></td>
   </tr>
 </div>
 
