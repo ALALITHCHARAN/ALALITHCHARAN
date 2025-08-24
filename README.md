@@ -17,19 +17,17 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 - **Scripting & Programming:** Python | Bash | Go | YAML  
 - **Version Control & Collaboration:** Git | GitHub | GitLab | Bitbucket  
 
-## Skills & Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu,fluentd,fluentbit)](https://skillicons.dev)
 
 ---
 
 ## 📈 GitHub Stats  
 
-<div align="center">
+<div align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALALITHCHARAN&theme=github_dark" alt="ALALITHCHARAN's GitHub Stats"/>
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALALITHCHARAN&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALALITHCHARAN&show_icons=true&theme=github_dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALALITHCHARAN&layout=compact&theme=tokyonight)  
 
 ---
@@ -60,6 +58,7 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 ## Connect with Me
 
 {"linkedin":"https://www.linkedin.com/in/lalith-charan-ampabathina","generic":"https://github.com/ALALITHCHARAN"}
+
 ---
 
 ## 🌍 Let's Connect  
