@@ -30,6 +30,12 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vault.png" alt="Vault" title="Vault"/></code></td>
 		</tr>
 </div>
+
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sonarqube.png" alt="SonarQube" title="SonarQube"/>
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tomcat.png" alt="Tomcat" title="Tomcat"/>
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/>
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/loki.png" alt="Loki" title="Loki"/>
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vault.png" alt="Vault" title="Vault"/>
 ---
 
 ## 📈 GitHub Stats  
