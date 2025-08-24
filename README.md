@@ -21,6 +21,14 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 [![My Skills](https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu,gcp,grafana)](https://skillicons.dev)
 
 
+[![My Skills](https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu,gcp,grafana,python&perline=8)](https://skillicons.dev)
+
+<!-- ArgoCD is not yet on skillicons.dev, so we add it manually -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argo/argo-original.svg" alt="ArgoCD" width="48" height="48"/>
+</p>
+
+
 ---
 
 ## 📈 GitHub Stats  
