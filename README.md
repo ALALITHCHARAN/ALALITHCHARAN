@@ -82,6 +82,9 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 <a href="lalithcharan1410@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="40" />
 </a>
+<a href="https://github.com/ALALITHCHARAN">
+  <img src="https://skillicons.dev/icons?i=github" width="40" />
+</a>
 
 ---
 ⭐️ _“Automate Everything, Deliver Continuously, Scale Infinitely.”_
