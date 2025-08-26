@@ -75,11 +75,16 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
   <img align="center" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
-<a href="https://www.youtube.com/@lalithcharan" target="_blank">
-  <img align="center" alt="YouTube" width="40px" src="linkedin  " />
-</a>
 
-![My Skills](https://skillicons.dev/icons?i=linkedin) 
+<a href="https://www.linkedin.com/in/lalith-charan-ampabathina" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+</a>
+<a href="https://www.youtube.com/@lalithcharan" target="_blank">
+  <img src="https://skillicons.dev/icons?i=youtube" width="40" />
+</a>
+<a href="lalithcharan1410@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+</a>
 
 ---
 ⭐️ _“Automate Everything, Deliver Continuously, Scale Infinitely.”_
