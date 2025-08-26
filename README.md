@@ -76,10 +76,10 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 <a href="https://www.linkedin.com/in/lalith-charan-ampabathina">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
 </a>
-<a href="https://www.youtube.com/@lalithcharan" target="_blank">
+<a href="https://www.youtube.com/@lalithcharan">
   <img src="https://skillicons.dev/icons?i=youtube" width="40" />
 </a>
-<a href="lalithcharan1410@gmail.com" target="_blank">
+<a href="lalithcharan1410@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="40" />
 </a>
 
