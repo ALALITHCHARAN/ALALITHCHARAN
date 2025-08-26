@@ -79,6 +79,7 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
   <img align="center" alt="YouTube" width="40px" src="linkedin  " />
 </a>
 
+![My Skills](https://skillicons.dev/icons?i=linkedin) 
 
 ---
 ⭐️ _“Automate Everything, Deliver Continuously, Scale Infinitely.”_
