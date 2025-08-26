@@ -71,5 +71,14 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 - 📝 [Blog/Portfolio](https://yourportfolio.com)  
 - 📫 Email: lalithcharan1410@gmail.com
 
+<a href="https://www.linkedin.com/in/yourusername/" target="_blank">
+  <img align="center" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+
+<a href="https://www.youtube.com/@yourchannel" target="_blank">
+  <img align="center" alt="YouTube" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" />
+</a>
+
+
 ---
 ⭐️ _“Automate Everything, Deliver Continuously, Scale Infinitely.”_
