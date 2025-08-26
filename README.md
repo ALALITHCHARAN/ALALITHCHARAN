@@ -77,7 +77,7 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
   <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
 </a>
 <a href="https://www.youtube.com/@lalithcharan">
-  <img src="https://skillicons.dev/icons?i=youtube" width="40" />
+  <img src="https://github.com/user-attachments/assets/72ad9fb5-dbc6-487a-8f6f-adef45e65ad3" width="40" />
 </a>
 <a href="lalithcharan1410@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="40" />
