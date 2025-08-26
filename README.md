@@ -71,9 +71,6 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 - 📝 [Blog/Portfolio](https://yourportfolio.com)  
 - 📫 Email: lalithcharan1410@gmail.com
 
-<a href="" target="_blank">
-  <img align="center" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
 
 
 <a href="https://www.linkedin.com/in/lalith-charan-ampabathina" target="_blank">
