@@ -31,6 +31,15 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
   </tr>
 </div>
 
+### 📊 Monitoring & Logging
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ElasticSearch" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="Logstash" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/fluentd/fluentd-icon.svg" alt="Fluentd" width="50" height="50"/>
+</p>
+
 
 ---
 
