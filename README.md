@@ -1,8 +1,28 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Zane;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
-    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Zane%20Pearton&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Multi-Disciplinary%20Software%20Engineer%20|%20Data•Cloud•XR•AI" width="100%" />
 </div>
 
+<!-- SOCIAL LINKS -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/zane-pearton">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://linktr.ee/zanepearton">
+    <img src="https://img.shields.io/badge/-Linktree-%2339E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
+  </a>
+  <a href="https://dev.to/zanepearton">
+    <img src="https://img.shields.io/badge/-Dev.to-%230A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community"/>
+  </a>
+  <a href="https://github.com/ZanePearton/ZanePearton">
+    <img src="https://img.shields.io/badge/GitHub-Profile-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=for-the-badge&color=ff9500" alt="Profile Views" />
+</div>
+
+---
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Multi-disciplinary+engineer+with+expertise+across;data%2C+cloud%2C+DevOps%2C+and+immersive+technologies" alt="Typing SVG" />
+</div>
 ---
 
 # 👋 Hi there, I'm Lalith Charan
