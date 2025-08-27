@@ -20,29 +20,17 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 
 ![My Skills](https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu,gcp,grafana,python) 
 
-<div align="left">
-  <tr>
-    <td><code><img width="45" style="background:white; padding:5px; border-radius:8px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sonarqube.png" alt="SonarQube" title="SonarQube"/></code></td>
-    <td><code><img width="45" style="background:white; padding:5px; border-radius:8px;" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="Tomcat" title="Tomcat"/></code></td>
-    <td><code><img width="45" style="background:white; padding:5px; border-radius:8px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></code></td>
-    <td><code><img width="45" style="background:white; padding:5px; border-radius:8px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/loki.png" alt="Loki" title="Loki"/></code></td>
-    <td><code><img width="45" style="background:green; padding:5px; border-radius:8px;" src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="Vault" title="Vault"/></code></td>
-    <td><code><img width="45" height="45" style="background:white; border-radius:8px;" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Vault" title="Vault"/></code></td>
-  </tr>
-</div>
-
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ElasticSearch" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="Logstash" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/fluentd/fluentd-icon.svg" alt="Fluentd" width="50" height="50"/>
-  <img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sonarqube.png" alt="SonarQube" title="SonarQube"/>
-  <img width="45" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="Tomcat" title="Tomcat"/>
-  <img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/>
-  <img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/loki.png" alt="Loki" title="Loki"/>
-  <img width="45" src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="Vault" title="Vault"/>
-  <img width="45" height="45"  src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Vault" title="Vault"/>
-
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sonarqube.png" alt="SonarQube" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="Tomcat" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/loki.png" alt="Loki" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="Vault" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="ArgoCD" width="50" height="50"/>
 </p>
 
 
