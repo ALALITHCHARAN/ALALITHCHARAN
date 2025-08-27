@@ -11,6 +11,9 @@
   <a href="https://github.com/ALALITHCHARAN">
     <img src="https://img.shields.io/badge/GitHub-Profile-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
+  <a href="https://alalithcharan.github.io/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=ALALITHCHARAN&style=for-the-badge&color=ff9500" alt="Profile Views" />
 </div>
 
