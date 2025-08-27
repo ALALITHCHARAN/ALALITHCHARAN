@@ -17,13 +17,8 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Multi-disciplinary+engineer+with+expertise+across;data%2C+cloud%2C+DevOps%2C+and+immersive+technologies" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Passionate+DevOps+Engineer;Cloud+%7C+CI%2FCD+%7C+Automation;Kubernetes+%7C+Docker+%7C+Terraform;Monitoring+%7C+SRE+%7C+Security" alt="Typing SVG" />
 </div>
-
 
 ---
 
