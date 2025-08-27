@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Lalith%20Charan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20|%20Cloud•CI%2FCD•Automation•SRE•Monitoring
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Lalith%20Charan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20|%20Cloud•CI%2FCD•Automation•SRE•Monitoring" width="100%"
 />
 </div>
 
