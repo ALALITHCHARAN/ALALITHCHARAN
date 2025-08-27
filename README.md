@@ -27,7 +27,7 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
     <td><code><img width="45" style="background:white; padding:5px; border-radius:8px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></code></td>
     <td><code><img width="45" style="background:white; padding:5px; border-radius:8px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/loki.png" alt="Loki" title="Loki"/></code></td>
     <td><code><img width="45" style="background:green; padding:5px; border-radius:8px;" src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="Vault" title="Vault"/></code></td>
-    <td><code><img width="45" height="45" style="background:white; padding:5px; border-radius:8px;" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Vault" title="Vault"/></code></td>
+    <td><code><img width="45" height="45" style="background:white; border-radius:8px;" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Vault" title="Vault"/></code></td>
   </tr>
 </div>
 
