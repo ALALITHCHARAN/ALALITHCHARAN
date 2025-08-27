@@ -31,13 +31,18 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
   </tr>
 </div>
 
-### 📊 Monitoring & Logging
-
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ElasticSearch" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="Logstash" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/fluentd/fluentd-icon.svg" alt="Fluentd" width="50" height="50"/>
+  <img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sonarqube.png" alt="SonarQube" title="SonarQube"/>
+  <img width="45" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="Tomcat" title="Tomcat"/>
+  <img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/>
+  <img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/loki.png" alt="Loki" title="Loki"/>
+  <img width="45" src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="Vault" title="Vault"/>
+  <img width="45" height="45"  src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Vault" title="Vault"/>
+
 </p>
 
 
