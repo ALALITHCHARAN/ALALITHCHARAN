@@ -86,6 +86,10 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 <a href="https://github.com/ALALITHCHARAN">
   <img src="https://skillicons.dev/icons?i=github" width="40" />
 </a>
+<a href="https://alalithcharan.github.io/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="50" height="50"/>
+</a>
+
 
 
 ## 🌐 Portfolio  
