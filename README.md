@@ -70,7 +70,8 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 ## 🌍 Let's Connect  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lalith-charan-ampabathina)  
-- 📝 [Vlog](https://www.youtube.com/@lalithcharan)  
+- 📝 [Vlog](https://www.youtube.com/@lalithcharan)
+- 🌐 Check out my portfolio here: [My Portfolio](https://alalithcharan.github.io/)
 - 📫 Email: lalithcharan1410@gmail.com
 
 
@@ -87,26 +88,8 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
   <img src="https://skillicons.dev/icons?i=github" width="40" />
 </a>
 <a href="https://alalithcharan.github.io/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="40" height="40"/>
 </a>
-
-
-
-## 🌐 Portfolio  
-Check out my portfolio here: [My Portfolio](https://alalithcharan.github.io/)
-
-## 🌐 Portfolio  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://alalithcharan.github.io/)
-
-## 🌐 Portfolio  
-<p align="left">
-  <a href="https://alalithcharan.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-## 🌐 Portfolio  
-[![Portfolio Banner](https://img.shields.io/badge/Check%20out%20my%20Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://alalithcharan.github.io/)
 
 ---
 ⭐️ _“Automate Everything, Deliver Continuously, Scale Infinitely.”_
