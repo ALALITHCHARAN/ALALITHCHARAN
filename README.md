@@ -74,7 +74,6 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 - 📫 Email: lalithcharan1410@gmail.com
 
 
-
 <a href="https://www.linkedin.com/in/lalith-charan-ampabathina">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
 </a>
@@ -87,6 +86,23 @@ Passionate about **DevOps, Cloud, Containers, and Monitoring**.
 <a href="https://github.com/ALALITHCHARAN">
   <img src="https://skillicons.dev/icons?i=github" width="40" />
 </a>
+
+
+## 🌐 Portfolio  
+Check out my portfolio here: [My Portfolio](https://alalithcharan.github.io/)
+
+## 🌐 Portfolio  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://alalithcharan.github.io/)
+
+## 🌐 Portfolio  
+<p align="left">
+  <a href="https://alalithcharan.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+## 🌐 Portfolio  
+[![Portfolio Banner](https://img.shields.io/badge/Check%20out%20my%20Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://alalithcharan.github.io/)
 
 ---
 ⭐️ _“Automate Everything, Deliver Continuously, Scale Infinitely.”_
