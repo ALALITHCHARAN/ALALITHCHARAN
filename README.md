@@ -1,22 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Zane%20Pearton&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Multi-Disciplinary%20Software%20Engineer%20|%20Data•Cloud•XR•AI" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Lalith%20Charan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20|%20Cloud•CI%2FCD•Automation•SRE•Monitoring
+/>
 </div>
 
 <!-- SOCIAL LINKS -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/zane-pearton">
+  <a href="https://www.linkedin.com/in/lalith-charan-ampabathina">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://linktr.ee/zanepearton">
-    <img src="https://img.shields.io/badge/-Linktree-%2339E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
-  </a>
-  <a href="https://dev.to/zanepearton">
-    <img src="https://img.shields.io/badge/-Dev.to-%230A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community"/>
-  </a>
-  <a href="https://github.com/ZanePearton/ZanePearton">
+  <a href="https://github.com/ALALITHCHARAN">
     <img src="https://img.shields.io/badge/GitHub-Profile-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=for-the-badge&color=ff9500" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ALALITHCHARAN&style=for-the-badge&color=ff9500" alt="Profile Views" />
 </div>
 
 ---
